@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/newPlayerMenuItem"
+        android:title="Check new player"/>
+    <item android:id="@+id/showPlayersMenuItem"
+        android:title="Saved players"/>
+    <item android:id="@+id/exitMenuItem"
+        android:title="Exit" />
+</menu>

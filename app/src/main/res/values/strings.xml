@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">PUBG Stat Viewer</string>
+    <string name="player_stats">PLAYER STATS</string>
+    <string name="pubglogo">pubgLogo</string>
+
+    <string-array name="pubgPresetNames">
+        <item>Custom</item>
+        <item>WackyJacky101</item>
+        <item>shroud</item>
+        <item>Smokev1ch</item>
+        <item>Gejsak</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="get_your_statistics">GET YOUR STATISTICS!</string>
+    <string name="select_from_the_list">Select from the list.</string>
+    <string name="or">OR</string>
+    <string name="add_a_custom_name">Add a custom name</string>
+    <string name="your_pubg_name">Your PUBG name</string>
+    <string name="send">Send</string>
+    <string name="pubg_name">PUBG Name:</string>
+    <string name="testname">TestName</string>
+    <string name="account_id">Account ID:</string>
+    <string name="testid">TestID</string>
+    <string name="matches">Matches:</string>
+    <string name="testcount">TestCount</string>
+    <string name="get_statistics">Get statistics</string>
+    <string name="duo_stats">Duo stats:</string>
+    <string name="duo_fpp_stats">Duo FPP stats:</string>
+    <string name="solo_stats">Solo stats:</string>
+    <string name="solo_fpp_stats">Solo FPP stats:</string>
+    <string name="squad_stats">Squad stats:</string>
+    <string name="squad_fpp_stats">Squad FPP stats:</string>
+    <string name="name">Name</string>
+    <string name="value">Value</string>
+    <string name="save_player_stats">Save player stats.</string>
+    <string name="id">ID</string>
+</resources>
